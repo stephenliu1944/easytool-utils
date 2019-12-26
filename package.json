@@ -1,7 +1,7 @@
 {
   "name": "@easytool/utils",
   "version": "0.1.0",
-  "description": "Use for development JS library.",
+  "description": "Common JS utils.",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "browser": "dist/index.umd.js",
